@@ -1,6 +1,6 @@
 # 🔐 Password Complexity Checker
 
-A beginner-friendly Python tool that evaluates the strength of user passwords using scoring logic and regex pattern matching. It provides feedback and recommendations to help users build stronger, more secure passwords — perfect for cybersecurity learners, developers, and IT support professionals.
+A beginner-friendly Python tool that evaluates the strength of user passwords using scoring logic and regex pattern matching. It provides feedback and recommendations to help users build stronger, more secure passwords perfect for cybersecurity learners, developers, and IT support professionals.
 
 ---
 
